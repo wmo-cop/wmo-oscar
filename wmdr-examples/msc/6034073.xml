@@ -1,0 +1,250 @@
+<?xml version="1.0" ?>
+<wmdr:WIGOSMetadataRecord gml:id="id_6034073" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:wmdr="http://def.wmo.int/wmdr/2017" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://def.wmo.int/wmdr/2017 http://schemas.wmo.int/wmdr/1.0RC8/wmdr.xsd">
+  <wmdr:headerInformation>
+    <wmdr:Header>
+      <wmdr:fileDateTime>2018-04-05T05:39:46Z</wmdr:fileDateTime>
+      <wmdr:recordOwner>
+        <gmd:CI_ResponsibleParty id="contact-recordOwner">
+          <gmd:individualName>
+            <gco:CharacterString>Tom Kralidis</gco:CharacterString>
+          </gmd:individualName>
+          <gmd:organisationName>
+            <gco:CharacterString>Meteorological Service of Canada</gco:CharacterString>
+          </gmd:organisationName>
+          <gmd:positionName>
+            <gco:CharacterString>Senior Systems Scientist</gco:CharacterString>
+          </gmd:positionName>
+          <gmd:contactInfo>
+            <gmd:CI_Contact>
+              <gmd:phone>
+                <gmd:CI_Telephone>
+                  <gmd:voice>
+                    <gco:CharacterString>+01-416-739-4907</gco:CharacterString>
+                  </gmd:voice>
+                  <gmd:facsimile>
+                    <gco:CharacterString>+01-417-739-4261</gco:CharacterString>
+                  </gmd:facsimile>
+                </gmd:CI_Telephone>
+              </gmd:phone>
+              <gmd:address>
+                <gmd:CI_Address>
+                  <gmd:deliveryPoint>
+                    <gco:CharacterString>4905 Dufferin Street</gco:CharacterString>
+                  </gmd:deliveryPoint>
+                  <gmd:city>
+                    <gco:CharacterString>Toronto</gco:CharacterString>
+                  </gmd:city>
+                  <gmd:administrativeArea>
+                    <gco:CharacterString>Ontario</gco:CharacterString>
+                  </gmd:administrativeArea>
+                  <gmd:postalCode>
+                    <gco:CharacterString>M3H 5T4</gco:CharacterString>
+                  </gmd:postalCode>
+                  <gmd:country>
+                    <gco:CharacterString>Canada</gco:CharacterString>
+                  </gmd:country>
+                  <gmd:electronicMailAddress>
+                    <gco:CharacterString>tom.kralidis@canada.ca</gco:CharacterString>
+                  </gmd:electronicMailAddress>
+                </gmd:CI_Address>
+              </gmd:address>
+              <gmd:onlineResource>
+                <gmd:CI_OnlineResource>
+                  <gmd:linkage>
+                    <gmd:URL>https://www.canada.ca/en/services/environment/weather.html</gmd:URL>
+                  </gmd:linkage>
+                  <gmd:protocol>
+                    <gco:CharacterString>WWW:LINK</gco:CharacterString>
+                  </gmd:protocol>
+                  <gmd:function>
+                    <gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information" codeSpace="ISOTC211/19115">information</gmd:CI_OnLineFunctionCode>
+                  </gmd:function>
+                </gmd:CI_OnlineResource>
+              </gmd:onlineResource>
+              <gmd:hoursOfService>
+                <gco:CharacterString>0700h - 1500h EST</gco:CharacterString>
+              </gmd:hoursOfService>
+              <gmd:contactInstructions>
+                <gco:CharacterString>email</gco:CharacterString>
+              </gmd:contactInstructions>
+            </gmd:CI_Contact>
+          </gmd:contactInfo>
+          <gmd:role>
+            <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</gmd:CI_RoleCode>
+          </gmd:role>
+        </gmd:CI_ResponsibleParty>
+      </wmdr:recordOwner>
+    </wmdr:Header>
+  </wmdr:headerInformation>
+  <wmdr:facility>
+    <wmdr:ObservingFacility gml:id="_0-20000-0-71151">
+      <gml:identifier codeSpace="http://wigos.wmo.int">http://wigos.wmo.int/0-20000-0-71151</gml:identifier>
+      <gml:name>KENORA RCS</gml:name>
+      <wmdr:responsibleParty>
+        <wmdr:ResponsibleParty>
+          <wmdr:responsibleParty>
+            <gmd:CI_ResponsibleParty id="contact-responsibleParty">
+              <gmd:individualName>
+                <gco:CharacterString>Jeffrey Karn</gco:CharacterString>
+              </gmd:individualName>
+              <gmd:organisationName>
+                <gco:CharacterString>Meteorological Service of Canada</gco:CharacterString>
+              </gmd:organisationName>
+              <gmd:positionName>
+                <gco:CharacterString>Senior Environmental Monitoring Scientist</gco:CharacterString>
+              </gmd:positionName>
+              <gmd:contactInfo>
+                <gmd:CI_Contact>
+                  <gmd:phone>
+                    <gmd:CI_Telephone>
+                      <gmd:voice>
+                        <gco:CharacterString>+01-416-739-4923</gco:CharacterString>
+                      </gmd:voice>
+                      <gmd:facsimile>
+                        <gco:CharacterString>+01-417-739-4261</gco:CharacterString>
+                      </gmd:facsimile>
+                    </gmd:CI_Telephone>
+                  </gmd:phone>
+                  <gmd:address>
+                    <gmd:CI_Address>
+                      <gmd:deliveryPoint>
+                        <gco:CharacterString>4905 Dufferin Street</gco:CharacterString>
+                      </gmd:deliveryPoint>
+                      <gmd:city>
+                        <gco:CharacterString>Toronto</gco:CharacterString>
+                      </gmd:city>
+                      <gmd:administrativeArea>
+                        <gco:CharacterString>Ontario</gco:CharacterString>
+                      </gmd:administrativeArea>
+                      <gmd:postalCode>
+                        <gco:CharacterString>M3H 5T4</gco:CharacterString>
+                      </gmd:postalCode>
+                      <gmd:country>
+                        <gco:CharacterString>Canada</gco:CharacterString>
+                      </gmd:country>
+                      <gmd:electronicMailAddress>
+                        <gco:CharacterString>jeffrey.karn@canada.ca</gco:CharacterString>
+                      </gmd:electronicMailAddress>
+                    </gmd:CI_Address>
+                  </gmd:address>
+                  <gmd:onlineResource>
+                    <gmd:CI_OnlineResource>
+                      <gmd:linkage>
+                        <gmd:URL>https://www.canada.ca/en/services/environment/weather.html</gmd:URL>
+                      </gmd:linkage>
+                      <gmd:protocol>
+                        <gco:CharacterString>WWW:LINK</gco:CharacterString>
+                      </gmd:protocol>
+                      <gmd:function>
+                        <gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information" codeSpace="ISOTC211/19115">information</gmd:CI_OnLineFunctionCode>
+                      </gmd:function>
+                    </gmd:CI_OnlineResource>
+                  </gmd:onlineResource>
+                  <gmd:hoursOfService>
+                    <gco:CharacterString>0700h - 1500h EST</gco:CharacterString>
+                  </gmd:hoursOfService>
+                  <gmd:contactInstructions>
+                    <gco:CharacterString>email</gco:CharacterString>
+                  </gmd:contactInstructions>
+                </gmd:CI_Contact>
+              </gmd:contactInfo>
+              <gmd:role>
+                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</gmd:CI_RoleCode>
+              </gmd:role>
+            </gmd:CI_ResponsibleParty>
+          </wmdr:responsibleParty>
+        </wmdr:ResponsibleParty>
+      </wmdr:responsibleParty>
+      <wmdr:geospatialLocation>
+        <wmdr:GeospatialLocation>
+          <wmdr:geoLocation nilReason="missing"/>
+          <wmdr:geopositioningMethod xlink:href="http://codes.wmo.int/wmdr/GeopositioningMethod/gps"/>
+          <wmdr:validPeriod>
+            <gml:TimePeriod gml:id="tp1">
+              <gml:beginPosition>2018-04-03 19:01:15</gml:beginPosition>
+              <gml:endPosition>2018-04-04 11:40:20</gml:endPosition>
+            </gml:TimePeriod>
+          </wmdr:validPeriod>
+        </wmdr:GeospatialLocation>
+      </wmdr:geospatialLocation>
+      <wmdr:geospatialLocation>
+        <wmdr:GeospatialLocation>
+          <wmdr:geoLocation>
+            <gml:Point gml:id="p2" srsDimension="3" srsName="http://www.opengis.net/def/crs/EPSG/0/4326">
+              <gml:pos>-94.36666666666666 49.78333333333333 412.7</gml:pos>
+            </gml:Point>
+          </wmdr:geoLocation>
+          <wmdr:geopositioningMethod xlink:href="http://codes.wmo.int/wmdr/GeopositioningMethod/gps"/>
+          <wmdr:validPeriod>
+            <gml:TimePeriod gml:id="tp2">
+              <gml:beginPosition>2018-04-04 11:40:20</gml:beginPosition>
+              <gml:endPosition>2018-04-05 03:45:07</gml:endPosition>
+            </gml:TimePeriod>
+          </wmdr:validPeriod>
+        </wmdr:GeospatialLocation>
+      </wmdr:geospatialLocation>
+      <wmdr:geospatialLocation>
+        <wmdr:GeospatialLocation>
+          <wmdr:geoLocation>
+            <gml:Point gml:id="p3" srsDimension="3" srsName="http://www.opengis.net/def/crs/EPSG/0/4326">
+              <gml:pos>-94.3615 49.7906 412.7</gml:pos>
+            </gml:Point>
+          </wmdr:geoLocation>
+          <wmdr:geopositioningMethod xlink:href="http://codes.wmo.int/wmdr/GeopositioningMethod/gps"/>
+          <wmdr:validPeriod>
+            <gml:TimePeriod gml:id="tp3">
+              <gml:beginPosition>2018-04-05 03:45:07</gml:beginPosition>
+              <gml:endPosition>2018-04-05 05:39:46</gml:endPosition>
+            </gml:TimePeriod>
+          </wmdr:validPeriod>
+        </wmdr:GeospatialLocation>
+      </wmdr:geospatialLocation>
+      <wmdr:geospatialLocation>
+        <wmdr:GeospatialLocation>
+          <wmdr:geoLocation>
+            <gml:Point gml:id="p4" srsDimension="3" srsName="http://www.opengis.net/def/crs/EPSG/0/4326">
+              <gml:pos>-94.377778 49.790556 412.7</gml:pos>
+            </gml:Point>
+          </wmdr:geoLocation>
+          <wmdr:geopositioningMethod xlink:href="http://codes.wmo.int/wmdr/GeopositioningMethod/gps"/>
+          <wmdr:validPeriod>
+            <gml:TimePeriod gml:id="tp4">
+              <gml:beginPosition>2018-04-05 05:39:46</gml:beginPosition>
+              <gml:endPosition>now</gml:endPosition>
+            </gml:TimePeriod>
+          </wmdr:validPeriod>
+        </wmdr:GeospatialLocation>
+      </wmdr:geospatialLocation>
+      <wmdr:onlineResource>
+        <gmd:CI_OnlineResource>
+          <gmd:linkage>
+            <gmd:URL>https://oscar.wmo.int/surface//index.html#/search/station/stationReportDetails/0-20000-0-71151</gmd:URL>
+          </gmd:linkage>
+          <gmd:protocol>
+            <gco:CharacterString>WWW:LINK</gco:CharacterString>
+          </gmd:protocol>
+          <gmd:function>
+            <gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information" codeSpace="ISOTC211/19115">information</gmd:CI_OnLineFunctionCode>
+          </gmd:function>
+        </gmd:CI_OnlineResource>
+      </wmdr:onlineResource>
+      <wmdr:dateEstablished>2008-07-21</wmdr:dateEstablished>
+      <wmdr:wmoRegion xlink:href="http://codes.wmo.int/wmdr/WMORegion/northCentralAmericaCaribbean"/>
+      <wmdr:territory>
+        <wmdr:Territory>
+          <wmdr:territoryName xlink:href="http://codes.wmo.int/wmdr/TerritoryName/CAN"/>
+        </wmdr:Territory>
+      </wmdr:territory>
+      <wmdr:programAffiliation>
+        <wmdr:ProgramAffiliation>
+          <wmdr:programAffiliation xlink:href="http://codes.wmo.int/wmdr/ProgramAffiliation/WIGOSnonAffiliated"/>
+          <wmdr:reportingStatus>
+            <wmdr:ReportingStatus>
+              <wmdr:reportingStatus xlink:href="http://codes.wmo.int/wmdr/ReportingStatus/operational"/>
+            </wmdr:ReportingStatus>
+          </wmdr:reportingStatus>
+        </wmdr:ProgramAffiliation>
+      </wmdr:programAffiliation>
+    </wmdr:ObservingFacility>
+  </wmdr:facility>
+</wmdr:WIGOSMetadataRecord>
